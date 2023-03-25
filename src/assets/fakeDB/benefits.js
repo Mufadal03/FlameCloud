@@ -1,4 +1,4 @@
-export const Feautures = [
+export const benefits = [
     {
         id: 1,
         IconColor: 'linear-gradient(135deg, #3BC9FB 0%, #42A6FB 100%)',
