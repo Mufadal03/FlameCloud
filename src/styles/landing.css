@@ -1,0 +1,58 @@
+
+.greeting{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #111822;
+    opacity: 0.5;
+}
+.tagline{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 56px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #111822;
+    margin: auto;
+}
+.about{
+        font-style: normal;
+        font-weight: 500;
+        font-size: 22px;
+        text-align: center;
+        letter-spacing: -0.02em;
+        color: #111822;
+        margin: 17px auto;
+        opacity: 0.5;
+}
+.btn{
+        background-color: #077BFF;
+        border-radius: 10px;
+        width: 222px;
+        height: 47px;
+        color: #FFFFFF;
+}
+.btn:hover {
+    background: #077BFF;
+}
+.BenefitsCard{
+/* width: 285.84px;
+    height: 95.28px; */
+        border-radius: 5px;
+}
+.rating_container{
+    background: rgba(0, 182, 122, 0.1);
+        border-radius: 10px;
+}
+.rating{
+    font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        letter-spacing: -0.02em;
+    
+        color: #111822;
+}

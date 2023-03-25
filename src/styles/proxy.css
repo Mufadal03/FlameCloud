@@ -1,0 +1,81 @@
+.proxy_title{
+    font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        text-align: center;
+        letter-spacing: -0.02em;
+    
+        color: #111822;
+    
+        opacity: 0.5;
+}
+.proxy_headline{
+        font-style: normal;
+        font-weight: 600;
+        font-size: 56px;
+        line-height: 67px;
+        text-align: center;
+        letter-spacing: -0.02em;
+        color: #111822;
+}
+.proxy_details{
+    font-weight: 500;
+        font-size: 22px;
+        line-height: 26px;
+        text-align: center;
+        letter-spacing: -0.02em;
+    width: 509px;
+    margin: auto;
+        color: #111822;
+    
+        opacity: 0.5;
+}
+.proxy_textarea{
+    background: rgba(217, 216, 214, 0.25);
+        border: 1px solid rgba(0, 0, 0, 0.25);
+        border-radius: 5px;
+}
+.proxy_terms{
+width: 212px;
+    height: 34px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: -0.02em;
+
+    color: #111822;
+
+    opacity: 0.5;
+}
+.proxy_btn{
+    width: 223px;
+    height: 39px;
+    background: #077BFF;
+    border-radius: 5px;
+    color:#FFFFFF
+}
+
+.proxy_results_title{
+    width: 107px;
+        height: 24px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: -0.02em;
+        color: #077BFF;
+}
+.proxy_table{
+    background: rgba(217, 216, 214, 0.05);
+        border: 1px solid rgba(0, 0, 0, 0.25);
+        border-radius: 5px;
+}
+.proxy_suggestion{
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 22px;
+        letter-spacing: -0.02em;
+        color: #111822;
+}

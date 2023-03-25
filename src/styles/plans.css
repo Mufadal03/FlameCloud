@@ -1,0 +1,114 @@
+.plans_heading{
+    font-style: normal;
+        font-weight: 600;
+        font-size: 36px;
+        line-height: 43px;
+        text-align: center;
+        letter-spacing: -0.02em;
+    
+        color: #111822;
+}
+.plans_detail{
+    font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 22px;
+        text-align: center;
+        letter-spacing: -0.02em;
+    
+        color: #111822;
+    
+        opacity: 0.5;
+}
+.plans_include{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        letter-spacing: -0.02em;
+    
+        color: #111822;
+    
+        opacity: 0.5;
+}
+.plans_plan{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        letter-spacing: -0.02em;
+    
+        color: #111822;
+    
+        opacity: 0.8;
+}
+.plans_reseller{
+    font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        letter-spacing: -0.02em;
+    
+        color: #111822;
+    
+        opacity: 0.5;
+}
+.plans_become_reseller{
+    font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: -0.02em;
+        color: #111822;
+}
+
+.plans_includes_card{
+    background: rgba(30, 30, 30, 0.01);
+        border: 1px solid rgba(30, 30, 30, 0.1);
+        border-radius: 5px;
+}
+
+.ip4_btn{
+    width: 295px;
+        height: 47px;
+        border-radius: 5px;
+}
+
+.ip4_container{
+    width: 344px;
+        background: rgba(30, 30, 30, 0.01);
+        border: 1px solid rgba(30, 30, 30, 0.1);
+        border-radius: 5px;
+}
+.ip6_container{
+    width: 344px;
+        background: rgba(22, 209, 19, 0.1);
+        border: 1px solid #16D113;
+        border-radius: 5px;
+}
+.from_to{
+font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: -0.02em;
+}
+.ip_name{
+font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height */
+
+    letter-spacing: -0.02em;
+
+    color: #111822;
+}
+.ip_detail{
+font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.02em;
+
+    color: #111822;
+
+    opacity: 0.5;
+}

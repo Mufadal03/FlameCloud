@@ -1,0 +1,49 @@
+.reviews_heading{
+    font-style: normal;
+        font-weight: 600;
+        font-size: 36px;
+        line-height: 43px;
+        text-align: center;
+        letter-spacing: -0.02em;
+    
+        color: #111822;
+}
+.reviews_details{
+    font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 22px;
+        text-align: center;
+        letter-spacing: -0.02em;
+        color: #111822;
+    margin: auto;
+    margin-top: 10px;
+        opacity: 0.5;
+}
+.reviews_review{
+    font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        letter-spacing: -0.02em;
+    
+        color: #111822;
+    
+}
+.reviews_reviewer_name{
+    font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 22px;
+        letter-spacing: -0.02em;
+        color: #111822;
+}
+.reviews_reviewer_designation{
+    font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        letter-spacing: -0.02em;
+        color: #111822;
+        opacity: 0.5;
+}

@@ -1,0 +1,40 @@
+.features_heading{
+    font-style: normal;
+        font-weight: 600;
+        font-size: 36px;
+        line-height: 43px;
+        text-align: center;
+        letter-spacing: -0.02em;
+    
+        color: #FFFFFF;
+}
+.features_tagline{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #FFFFFF;
+
+    opacity: 0.5
+}
+.feature_details{
+    font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        letter-spacing: -0.02em;
+        color: #FFFFFF;
+        opacity: 0.5;
+}
+.feature_number{
+        height: 24px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: -0.02em;
+        color: #FFFFFF;
+}
